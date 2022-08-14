@@ -180,7 +180,7 @@
 //Kuo set the homing speeds (mm/min)
 //latest measurements suggest OMC at 2500 and Moons at 2400
 #ifdef X_AXIS_MOTOR_09
-#define HOMING_FEEDRATE_X 2400  // Kuo different feedrate needed for reliable X 0.9 degree motor stallGuard
+#define HOMING_FEEDRATE_X 2500  // Kuo different feedrate needed for reliable X 0.9 degree motor stallGuard
 #else
 #define HOMING_FEEDRATE_X 3000
 #endif
