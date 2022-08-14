@@ -7,7 +7,7 @@ Alt FAN at 100% for Sunon/Delta fans
 Filament load/unload tweaks - mini ramming during unload to reduce unloaded filament tip size
 
 # YET TO BE COMPLETED
-Integrate CLIXSTER work for automating values Moons/OMC...
+Integrate CLIXSTER work for automating values Moons/OMC...  -> MAKE A NOTE OF WHAT TO ADJUST: eg. Moons vs OMC HOMIG_FEEDRATE...
 Check Bear Exxa modifications
 Compare with Gabe7528 
 
