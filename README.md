@@ -1,3 +1,27 @@
+# Prusa Firmware v3.11 for i3 MK3S(+) ONLY
+
+0.9 stepper motors configurable
+Geared extruders configurable
+Bear Exxa v1 modifications to pass calibration
+Alt FAN at 100% for Sunon/Delta fans
+Filament load/unload tweaks - mini ramming during unload to reduce unloaded filament tip size
+
+# YET TO BE COMPLETED
+Integrate CLIXSTER work for automating values Moons/OMC...
+Check Bear Exxa modifications
+Compare with Gabe7528 
+
+##  FACTORY RESET WITH DATA ERASURE after installing this firmware. Failure to clear out old EEPROM setttings can produce odd printer behavior.
+
+##  Sources:
+  [guykuo](https://github.com/guykuo/Prusa-Firmware/tree/0.9-Degree-Stepper-Support)
+  [bartrv](https://github.com/bartrv/prusa.9/commit/e2ea1aac0a471e8cba0af6e5bdee7821ed049c4e)
+  [Bear Lab](https://github.com/bear-lab-3d/Prusa-Firmware)
+  [Stepper motor upgrades to eliminate VFAs](https://forum.prusa3d.com/forum/original-prusa-i3-mk3s-mk3-user-mods-octoprint-enclosures-nozzles/stepper-motor-upgrades-to-eliminate-vfa-s-vertical-fine-artifacts/)
+  [Clixster](https://github.com/Clixster/Prusa-Firmware/tree/MK3_3.11.0_CLX)
+  [Gabe7528](https://github.com/Gabe7528/Bondtech-Prusa-Firmware-09xy/tree/Bondtech-MK3-FW3110)
+  
+
 # Prusa Firmware MK3
 
 This repository contains the source code and the development versions of the firmware running on the [Original Prusa i3](https://prusa3d.com/) MK3S/MK3/MK2.5S/MK2.5 line of printers.
